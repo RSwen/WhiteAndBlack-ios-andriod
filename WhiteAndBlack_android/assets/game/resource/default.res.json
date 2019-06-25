@@ -1,0 +1,75 @@
+{
+	"resources": [
+		{
+			"name": "bgImage",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egretIcon",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "mcdata_json",
+			"type": "json",
+			"url": "gameres/mcdata.json"
+		},
+		{
+			"name": "mcdata_png",
+			"type": "image",
+			"url": "gameres/mcdata.png"
+		},
+		{
+			"name": "number_fnt",
+			"type": "font",
+			"url": "gameres/number.fnt"
+		},
+		{
+			"name": "number_png",
+			"type": "image",
+			"url": "gameres/number.png"
+		},
+		{
+			"name": "woman1_jpg",
+			"type": "image",
+			"url": "gameres/woman1.jpg"
+		},
+		{
+			"name": "woman2_jpg",
+			"type": "image",
+			"url": "gameres/woman2.jpg"
+		},
+		{
+			"name": "woman3_jpg",
+			"type": "image",
+			"url": "gameres/woman3.jpg"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "bgImage,egretIcon,bg_jpg,egret_icon_png,description_json,mcdata_json,mcdata_png,number_fnt,number_png,woman1_jpg,woman2_jpg,woman3_jpg"
+		}
+	]
+}
